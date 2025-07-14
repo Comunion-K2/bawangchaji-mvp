@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #fdfaf6;
+}
+.container {
+    text-align: center;
+    padding: 50px;
+}
+h1 {
+    color: #cb7b4c;
+}
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #cb7b4c;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+a:hover {
+    background-color: #b06b3f;
+}
